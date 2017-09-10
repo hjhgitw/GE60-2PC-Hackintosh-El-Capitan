@@ -1,5 +1,4 @@
 # MSI GE60 2PC OS X El Capitan
-<a href="https://oktay.github.io/GE60-2PC-Hackintosh-El-Capitan/">Github Page</a>
 This is a guide for install Mac OS X El Capitan on "MSI GE60 2PC" laptop.
 
 ## Yükleme 🚀
